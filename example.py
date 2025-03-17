@@ -1,6 +1,6 @@
-"""
-Imprimir los datos personales 
+"""Imprimir los datos personales 
 de estudiante
+
 """
 
 print("Datos del estudiante")
